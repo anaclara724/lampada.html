@@ -1,1 +1,1 @@
-# lampada.html
+# lampada
